@@ -1,9 +1,5 @@
-let move_speed = 3;
-let gravity = 0.5;
 let Missionbooy = document.querySelector('.Missionbooy');
 let img = document.getElementById('Missionbooy-1');
-
-let scorr =0;
 
 let booyinsee = document.querySelector('.booyinsee');
 let booyinseeimg = document.getElementById('booyinseeimg');
